@@ -49,6 +49,12 @@ This is a web-based platform that allows users to take a mental health (anxiety/
 - Amazon EC2 – for deploying backend services
 - Amazon QuickSight – for building mental health dashboards (or Power BI as alternative)
 
+### 🔄 Relevant to Other Clouds (Azure/GCP)  
+- PySpark → **Azure Databricks**  
+- AWS Glue → **Azure Data Factory/Synapse**  
+- S3 → **Azure Data Lake (ADLS Gen2)**  
+- CI/CD (GitHub Actions) → **Azure DevOps**  
+
 ---
 
 ## 📊 Data Flow Overview
