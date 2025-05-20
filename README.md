@@ -74,5 +74,5 @@ This is a web-based platform that allows users to take a mental health (anxiety/
 - Email notifications/reminders
 - Mobile responsive version
 - More advanced image-based testing
-
+- More Features are coming soon
 
