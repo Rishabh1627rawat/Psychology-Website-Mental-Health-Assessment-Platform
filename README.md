@@ -5,9 +5,6 @@ A mental health assessment platform built with React and AWS Cloud, featuring im
 
 # 🧠 Psychology Website – Mental Health Assessment Platform
 
-## 📌 Status: In Progress 🚧
-
-This project is under active development and will be regularly updated. Contributions are welcome!
 
 This is a web-based platform that allows users to take a mental health (anxiety/depression) assessment through a structured test flow. The results are analyzed and visualized, helping users better understand their psychological state.
 
