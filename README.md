@@ -41,10 +41,8 @@ This is a web-based platform that allows users to take a mental health (anxiety/
 
 ### ☁️ Cloud (AWS):
 - Amazon S3 – for storing test data & static files
-- Amazon RDS or DynamoDB – for user info and test results
-- AWS Lambda – for serverless backend logic (optional)
 - Amazon EC2 – for deploying backend services
-- Amazon QuickSight – for building mental health dashboards (or Power BI as alternative)
+
 
 ### 🔄 Relevant to Other Clouds (Azure/GCP)  
 - PySpark → **Azure Databricks**  
